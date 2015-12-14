@@ -1,0 +1,858 @@
+td: 20
+W: 20
+E[M]: 510.000000
+Actual: 509.032990
+Error Rate: 0.001896
+
+td: 25
+W: 20
+E[M]: 476.723849
+Actual: 434.490997
+Error Rate: 0.088590
+
+td: 30
+W: 20
+E[M]: 452.823568
+Actual: 375.204987
+Error Rate: 0.171410
+
+td: 50
+W: 20
+E[M]: 400.060352
+Actual: 260.118988
+Error Rate: 0.349801
+
+td: 100
+W: 20
+E[M]: 355.000006
+Actual: 162.393005
+Error Rate: 0.542555
+
+td: 200
+W: 20
+E[M]: 330.147789
+Actual: 115.085999
+Error Rate: 0.651411
+
+td: 500
+W: 20
+E[M]: 314.506307
+Actual: 85.038002
+Error Rate: 0.729614
+
+td: 500
+W: 20
+E[M]: 314.506307
+Actual: 84.918999
+Error Rate: 0.729993
+
+td: 500
+W: 20
+E[M]: 314.506307
+Actual: 84.703003
+Error Rate: 0.730680
+
+td: 50
+W: 20
+E[M]: 400.060352
+Actual: 261.114014
+Error Rate: 0.347313
+
+td: 50
+W: 20
+E[M]: 8.001207
+Actual: 256.759003
+Error Rate: -31.090031
+
+td: 50
+W: 20
+E[M]: 8.001207
+Actual: 257.076996
+Error Rate: -31.129776
+
+td: 50
+W: 20
+E[M]: 0.601618
+Actual: 29.000000
+Error Rate: -47.203335
+
+td: 50
+W: 20
+E[M]: 0.601618
+Actual: 20.000000
+Error Rate: -32.243679
+
+td: 50
+W: 20
+E[M]: 0.601618
+Actual: 29.000000
+Error Rate: -47.203335
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 31.000000
+Error Rate: -0.030554
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 27.000000
+Error Rate: 0.102421
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.000000
+Error Rate: 0.168908
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 35.000000
+Error Rate: -0.163529
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 35.000000
+Error Rate: -0.163529
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 14.000000
+Error Rate: 0.534588
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 29.000000
+Error Rate: 0.035933
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 29.000000
+Error Rate: 0.035933
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 29.000000
+Error Rate: 0.035933
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 22.000000
+Error Rate: 0.268639
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 22.000000
+Error Rate: 0.268639
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 22.000000
+Error Rate: 0.268639
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.000000
+Error Rate: 0.168908
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.000000
+Error Rate: 0.168908
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 28.000000
+Error Rate: 0.069177
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 28.000000
+Error Rate: 0.069177
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 24.000000
+Error Rate: 0.202152
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 23.000000
+Error Rate: 0.235395
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 30.000000
+Error Rate: 0.002690
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 31.000000
+Error Rate: -0.030554
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 31.000000
+Error Rate: -0.030554
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 30.000000
+Error Rate: 0.002690
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 30.000000
+Error Rate: 0.002690
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 26.000000
+Error Rate: 0.135664
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 28.000000
+Error Rate: 0.069177
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 22.000000
+Error Rate: 0.268639
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 29.000000
+Error Rate: 0.035933
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 29.000000
+Error Rate: 0.035933
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.000000
+Error Rate: 0.168908
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 27.000000
+Error Rate: 0.102421
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 26.000000
+Error Rate: 0.135664
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 24.000000
+Error Rate: 0.202152
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 24.000000
+Error Rate: 0.202152
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 24.000000
+Error Rate: 0.202152
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 28.000000
+Error Rate: 0.069177
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 38.000000
+Error Rate: -0.263260
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 24.000000
+Error Rate: 0.202152
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 20.000000
+Error Rate: 0.335126
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 27.000000
+Error Rate: 0.102421
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.840000
+Error Rate: 0.140983
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.240000
+Error Rate: 0.160930
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.350000
+Error Rate: 0.157273
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 26.799999
+Error Rate: 0.109069
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.620001
+Error Rate: 0.148297
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.700001
+Error Rate: 0.145637
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.370001
+Error Rate: 0.156608
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.370001
+Error Rate: 0.156608
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.600000
+Error Rate: 0.148962
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.875999
+Error Rate: 0.139787
+
+td: 50
+W: 20
+E[M]: 30.080907
+Actual: 25.906000
+Error Rate: 0.138789
+
+td: 50
+W: 20
+E[M]: 400.060352
+Actual: 259.028992
+Error Rate: 0.352525
+
+td: 20
+W: 20
+E[M]: 510.000000
+Actual: 509.875000
+Error Rate: 0.000245
+
+td: 21
+W: 20
+E[M]: 502.344613
+Actual: 489.317993
+Error Rate: 0.025932
+
+td: 21
+W: 20
+E[M]: 502.344613
+Actual: 489.184998
+Error Rate: 0.026196
+
+td: 21
+W: 20
+E[M]: 502.344613
+Actual: 487.381012
+Error Rate: 0.029787
+
+td: 30
+W: 20
+E[M]: 452.823568
+Actual: 373.859009
+Error Rate: 0.174383
+
+td: 100
+W: 20
+E[M]: 355.000006
+Actual: 163.449005
+Error Rate: 0.539580
+
+td: 100
+W: 20
+E[M]: 355.000006
+Actual: 159.699997
+Error Rate: 0.550141
+
+td: 100
+W: 20
+E[M]: 27.659575
+Actual: 20.000000
+Error Rate: 0.276923
+
+td: 100
+W: 20
+E[M]: 27.659575
+Actual: 22.000000
+Error Rate: 0.204615
+
+td: 1000
+W: 20
+E[M]: 27.659574
+Actual: 22.160000
+Error Rate: 0.198831
+
+td: 1000
+W: 20
+E[M]: 309.124417
+Actual: 74.440002
+Error Rate: 0.759191
+
+td: 1000
+W: 20
+E[M]: 309.124417
+Actual: 75.779999
+Error Rate: 0.754856
+
+td: 1000
+W: 20
+E[M]: 27.659574
+Actual: 21.900000
+Error Rate: 0.208231
+
+td: 1000
+W: 20
+E[M]: 27.659574
+Actual: 22.049999
+Error Rate: 0.202808
+
+td: 10000
+W: 20
+E[M]: 27.659576
+Actual: 21.959999
+Error Rate: 0.206062
+
+td: 10000
+W: 20
+E[M]: 27.659576
+Actual: 21.920000
+Error Rate: 0.207508
+
+td: 10000
+W: 20
+E[M]: 27.659576
+Actual: 22.160000
+Error Rate: 0.198831
+
+td: 100
+W: 20
+E[M]: 27.659575
+Actual: 21.820000
+Error Rate: 0.211123
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.860001
+Error Rate: 0.250025
+
+td: 5000
+W: 50
+E[M]: 69.148935
+Actual: 52.169998
+Error Rate: 0.245542
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.200001
+Error Rate: 0.259569
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.799999
+Error Rate: 0.250892
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 50.400002
+Error Rate: 0.271138
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 92.800003
+Error Rate: 0.066894
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 92.000000
+Error Rate: 0.080000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 93.000000
+Error Rate: 0.070000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 95.400002
+Error Rate: 0.046000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 95.400002
+Error Rate: 0.046000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 100.000000
+Error Rate: 0.000000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 94.599998
+Error Rate: 0.054000
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 99.269997
+Error Rate: 0.007300
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 101.610001
+Error Rate: -0.021690
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 98.580002
+Error Rate: 0.008776
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 98.290001
+Error Rate: 0.011692
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 98.290001
+Error Rate: 0.011692
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 101.580002
+Error Rate: -0.021389
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 99.860001
+Error Rate: -0.004094
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 98.774002
+Error Rate: 0.006826
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 99.501999
+Error Rate: -0.000494
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 99.476997
+Error Rate: -0.000243
+
+td: 51
+W: 50
+E[M]: 99.452830
+Actual: 99.445000
+Error Rate: 0.000079
+
+td: 60
+W: 50
+E[M]: 94.528299
+Actual: 91.505997
+Error Rate: 0.031972
+
+td: 60
+W: 50
+E[M]: 94.528299
+Actual: 89.769997
+Error Rate: 0.050337
+
+td: 100
+W: 50
+E[M]: 79.759450
+Actual: 69.610001
+Error Rate: 0.127251
+
+td: 200
+W: 50
+E[M]: 69.148936
+Actual: 51.930000
+Error Rate: 0.249012
+
+td: 200
+W: 50
+E[M]: 69.148936
+Actual: 52.060001
+Error Rate: 0.247132
+
+td: 200
+W: 50
+E[M]: 69.148936
+Actual: 51.950001
+Error Rate: 0.248723
+
+td: 200
+W: 50
+E[M]: 69.148936
+Actual: 52.160000
+Error Rate: 0.245686
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.830002
+Error Rate: 0.250458
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.900002
+Error Rate: 0.249446
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 52.180000
+Error Rate: 0.245397
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 52.060001
+Error Rate: 0.247132
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.990002
+Error Rate: 0.248145
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 52.085999
+Error Rate: 0.246756
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 52.062000
+Error Rate: 0.247103
+
+td: 50
+W: 50
+E[M]: 100.000000
+Actual: 100.273003
+Error Rate: -0.002730
+
+td: 60
+W: 50
+E[M]: 94.528299
+Actual: 91.386002
+Error Rate: 0.033242
+
+td: 70
+W: 50
+E[M]: 89.056607
+Actual: 82.871002
+Error Rate: 0.069457
+
+td: 80
+W: 50
+E[M]: 84.426117
+Actual: 75.396004
+Error Rate: 0.106959
+
+td: 100
+W: 50
+E[M]: 79.759450
+Actual: 69.063004
+Error Rate: 0.134109
+
+td: 200
+W: 50
+E[M]: 69.148936
+Actual: 51.990002
+Error Rate: 0.248145
+
+td: 300
+W: 50
+E[M]: 69.148938
+Actual: 52.084999
+Error Rate: 0.246771
+
+td: 500
+W: 50
+E[M]: 69.148937
+Actual: 51.991001
+Error Rate: 0.248130
+
+td: 50
+W: 50
+E[M]: 1275.000000
+Actual: 1261.739990
+Error Rate: 0.010400
+
+td: 60
+W: 50
+E[M]: 1206.147694
+Actual: 1095.219971
+Error Rate: 0.091969
+
+td: 70
+W: 50
+E[M]: 1153.819340
+Actual: 963.380005
+Error Rate: 0.165051
+
+td: 80
+W: 50
+E[M]: 1112.614246
+Actual: 873.580017
+Error Rate: 0.214840
+
+td: 100
+W: 50
+E[M]: 1051.787234
+Actual: 717.590027
+Error Rate: 0.317742
+
+td: 200
+W: 50
+E[M]: 916.880309
+Actual: 429.619995
+Error Rate: 0.531433
+
+td: 300
+W: 50
+E[M]: 867.336352
+Actual: 311.920013
+Error Rate: 0.640370
+
+td: 500
+W: 50
+E[M]: 825.369471
+Actual: 218.410004
+Error Rate: 0.735379
+

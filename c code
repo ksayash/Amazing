@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdlib.h>
 #include "lp_lib.h"
-
+//hello
+//testing git
 //all definitions can be changed according to the given case
 #define nspot 50
 #define tc 0.1

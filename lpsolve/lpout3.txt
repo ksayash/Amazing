@@ -1,0 +1,33 @@
+W:50
+td: 50
+E[M]: 1275.000000
+actual cost: 1261.739990
+actual time: 49.000000W:50
+td: 60
+E[M]: 1206.147705
+actual cost: 1095.219971
+actual time: 57.709999W:50
+td: 70
+E[M]: 1153.819336
+actual cost: 963.380005
+actual time: 64.900002W:50
+td: 80
+E[M]: 1112.614258
+actual cost: 873.580017
+actual time: 75.760002W:50
+td: 100
+E[M]: 1051.787231
+actual cost: 717.590027
+actual time: 90.680000W:50
+td: 200
+E[M]: 916.880310
+actual cost: 429.619995
+actual time: 176.979996W:50
+td: 300
+E[M]: 867.336365
+actual cost: 311.920013
+actual time: 264.220001W:50
+td: 500
+E[M]: 825.369446
+actual cost: 218.410004
+actual time: 443.410004

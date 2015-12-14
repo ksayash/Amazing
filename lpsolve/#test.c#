@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+#include "lp_lib.h"
+//all definitions can be changed according to the given case
+#define nspot 50   
+#define tc 0.1
+#define tr 0.2
+#define W 15
+#define td 100
+#define num 100
+
+
