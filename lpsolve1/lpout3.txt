@@ -1,0 +1,420 @@
+
+W:100
+td: 110
+Monetory cost: 2340.449951
+Time: 109.349998
+
+W:100
+td: 120
+Monetory cost: 2118.100098
+Time: 118.480003
+
+W:100
+td: 130
+Monetory cost: 1997.219971
+Time: 129.339996
+
+W:100
+td: 140
+Monetory cost: 1837.000000
+Time: 139.440002
+
+W:100
+td: 150
+Monetory cost: 1740.880005
+Time: 152.100006
+
+W:100
+td: 160
+Monetory cost: 1664.160034
+Time: 158.839996
+
+W:100
+td: 170
+Monetory cost: 1541.869995
+Time: 170.110001
+
+W:100
+td: 180
+Monetory cost: 1457.010010
+Time: 175.020004
+
+W:100
+td: 190
+Monetory cost: 1376.260010
+Time: 185.899994
+
+W:100
+td: 200
+Monetory cost: 1332.459961
+Time: 200.899994
+
+
+C5R5
+
+
+W:100
+td: 110
+Monetory cost: 2520.370117
+Time: 107.949997
+
+W:100
+td: 120
+Monetory cost: 2465.750000
+Time: 117.559998
+
+W:100
+td: 130
+Monetory cost: 2397.600098
+Time: 129.029999
+
+W:100
+td: 140
+Monetory cost: 2374.399902
+Time: 135.179993
+
+W:100
+td: 150
+Monetory cost: 2332.050049
+Time: 144.440002
+
+W:100
+td: 160
+Monetory cost: 2311.060059
+Time: 153.919998
+
+W:100
+td: 170
+Monetory cost: 2277.260010
+Time: 162.960007
+
+W:100
+td: 180
+Monetory cost: 2308.669922
+Time: 162.690002
+
+W:100
+td: 190
+Monetory cost: 2280.719971
+Time: 187.949997
+
+W:100
+td: 200
+Monetory cost: 2198.979980
+Time: 187.940002
+
+
+W:100
+td: 210
+Monetory cost: 2185.360107
+Time: 194.619995
+
+W:100
+td: 220
+Monetory cost: 2151.580078
+Time: 199.440002
+
+W:100
+td: 230
+Monetory cost: 2230.959961
+Time: 203.160004
+
+W:100
+td: 240
+Monetory cost: 2166.419922
+Time: 225.389999
+
+W:100
+td: 250
+Monetory cost: 2189.030029
+Time: 220.789993
+
+W:100
+td: 260
+Monetory cost: 2167.310059
+Time: 219.270004
+
+W:100
+td: 270
+Monetory cost: 2133.310059
+Time: 266.209991
+
+W:100
+td: 280
+Monetory cost: 2116.620117
+Time: 249.309998
+
+W:100
+td: 290
+Monetory cost: 2108.909912
+Time: 289.329987
+
+W:100
+td: 300
+Monetory cost: 2081.439941
+Time: 254.570007
+
+W:100
+td: 200
+Monetory cost: 2233.219971
+Time: 182.210007
+
+W:100
+td: 200
+Monetory cost: 2241.800049
+Time: 175.990005
+
+W:100
+td: 200
+Monetory cost: 2262.219971
+Time: 182.139999
+
+W:100
+td: 200
+Monetory cost: 2288.989990
+Time: 186.550003
+
+W:100
+td: 200
+Monetory cost: 2244.580078
+Time: 185.740005
+
+W:100
+td: 200
+Monetory cost: 2232.830078
+Time: 173.410004
+
+W:100
+td: 200
+Monetory cost: 2215.469971
+Time: 184.419998
+
+W:100
+td: 200
+Monetory cost: 2250.169922
+Time: 182.600006
+
+W:100
+td: 200
+Monetory cost: 2221.949951
+Time: 187.589996
+
+W:100
+td: 200
+Monetory cost: 2237.189941
+Time: 182.660004
+
+W:100
+td: 200
+Monetory cost: 2245.520020
+Time: 180.509995
+
+W:100
+td: 200
+Monetory cost: 2281.889893
+Time: 189.020004
+
+W:100
+td: 200
+Monetory cost: 2260.570068
+Time: 198.210007
+
+W:100
+td: 200
+Monetory cost: 2218.550049
+Time: 184.970001
+
+W:100
+td: 200
+Monetory cost: 2235.979980
+Time: 193.759995
+
+W:100
+td: 200
+Monetory cost: 2256.179932
+Time: 187.550003
+
+W:100
+td: 200
+Monetory cost: 2232.909912
+Time: 190.229996
+
+W:100
+td: 200
+Monetory cost: 2220.110107
+Time: 187.130005
+
+W:100
+td: 200
+Monetory cost: 2190.090088
+Time: 183.830002
+
+W:100
+td: 200
+Monetory cost: 1327.439941
+Time: 201.770004
+
+W:100
+td: 200
+Monetory cost: 1344.020020
+Time: 200.050003
+
+W:100
+td: 200
+Monetory cost: 1337.739990
+Time: 198.610001
+
+W:100
+td: 200
+Monetory cost: 1341.250000
+Time: 194.729996
+
+W:100
+td: 200
+Monetory cost: 1306.410034
+Time: 193.470001
+
+W:100
+td: 200
+Monetory cost: 1341.369995
+Time: 198.429993
+
+W:100
+td: 200
+Monetory cost: 1342.459961
+Time: 194.619995
+
+W:100
+td: 200
+Monetory cost: 1322.630005
+Time: 197.940002
+
+W:100
+td: 200
+Monetory cost: 1327.819946
+Time: 198.759995
+
+W:100
+td: 200
+Monetory cost: 1333.300049
+Time: 195.380005
+
+W:100
+td: 200
+Monetory cost: 1302.869995
+Time: 201.759995
+
+W:100
+td: 200
+Monetory cost: 1340.900024
+Time: 198.690002
+
+W:100
+td: 200
+Monetory cost: 1307.160034
+Time: 194.509995
+
+W:100
+td: 200
+Monetory cost: 1318.280029
+Time: 197.699997
+
+W:100
+td: 200
+Monetory cost: 1340.709961
+Time: 197.750000
+
+W:100
+td: 200
+Monetory cost: 1315.599976
+Time: 201.990005
+
+W:100
+td: 200
+Monetory cost: 1306.400024
+Time: 197.119995
+
+W:100
+td: 200
+Monetory cost: 1325.290039
+Time: 196.770004
+
+W:100
+td: 200
+Monetory cost: 1344.400024
+Time: 201.320007
+
+W:100
+td: 200
+Monetory cost: 1314.819946
+Time: 200.710007
+
+W:100
+td: 200
+Monetory cost: 1341.880005
+Time: 192.559998
+
+W:100
+td: 200
+Monetory cost: 20.600000
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 19.520000
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 19.420000
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 20.330000
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 20.690001
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 19.549999
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 45.250000
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 44.009998
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 51.970001
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 43.889999
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 45.419998
+Time: 0.000000
+
+W:100
+td: 200
+Monetory cost: 0.000000
+Time: 164.600006
+
+W:100
+td: 200
+Monetory cost: 0.000000
+Time: 164.630005
