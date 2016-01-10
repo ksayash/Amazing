@@ -11,10 +11,12 @@ For testing Amazing on real world data , gathered from the Amazon EC2 website, u
 
 ##That is alright, but HOW DOES THIS WORK?
 To get results, Amazing uses lpsolve. ( A huge shout out to its creators)
+Open terminal in the lpsolve1 folder.
 In the terminal, write
 
 <pre><code>
 gcc small.c liblpsolve55.a -ldl -lm
 </code></pre>
 
+Currently, the implementation doesn't work on windows, due to library linking issues
 
