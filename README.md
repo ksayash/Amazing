@@ -10,7 +10,7 @@ Note that this program has an implicit random number generator, meaning you don'
 For testing Amazing on real world data , gathered from the Amazon EC2 website, use the results.c file. Note that currenly the C code has been written for a standard output file, containing 951 different spot instance prices. However, this can be easily modified to take in different values.
 
 ##That is alright, but HOW DOES THIS WORK?
-To get results, Amazing uses lpsolve. ( A huge shout out to its creators)
+To get results, Amazing uses the lpsolve library for C ( A huge shout out to its creators).
 Open terminal in the lpsolve1 folder.
 In the terminal, write
 
@@ -18,5 +18,5 @@ In the terminal, write
 gcc small.c liblpsolve55.a -ldl -lm
 </code></pre>
 
-Currently, the implementation doesn't work on windows, due to library linking issues
+Currently, the implementation doesn't work on windows, due to library linking issues.
 
